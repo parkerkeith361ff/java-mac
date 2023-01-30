@@ -1,5 +1,8 @@
 # CakePHP 3
 
+
+/vent
+
 /vendor/*
 /config/app.php
 
